@@ -1,10 +1,10 @@
-# BlockMed event listener for the RewardDistributor contract
+# BlockMed Blockchain event listener for the UploadAccessReward contract
 
-* Includes hardcoded ABI for RewardDistributor contract `0x16c60a50c0d9e2c191370e42aa9d2fb22b99f1fb`
+* Includes hardcoded ABI for UploadAccessReward contract `ROPSTAN` `0xC444dbf4952357a26c5f5C5f7039FA1ECd1cC4Ec` and `MAINNET` `0x648279922dd55b22665D7A22685B660626c9FbBF`
 * Uses web3 javascript library
 * Run it with `node`
-* We are using Infura endpoint `wss://ropsten.infura.io/ws` for Ropstan websocket
-* Lookup metadata from IPFS proxy `http://ipfs.blcksync.info:8888`
+* We are using Infura endpoint `wss://ropsten.infura.io/ws` for Ropstan websocket and `wss://mainnet.infura.io/ws` for Production
+* Lookup metadata from IPFS proxy `https://ipfs.blcksync.info:8080`
 
 ## Setup
 
