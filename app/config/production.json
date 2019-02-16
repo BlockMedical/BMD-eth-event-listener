@@ -1,6 +1,6 @@
 {
   "ipfs": {
-    "gateway_url": "http://ipfs-api.blcksync.info:8080/ipfs/"
+    "gateway_url": "http://ipfs-api.blockmed.ai:8080/ipfs/"
   },
   "ethereum": {
     "contract": {
