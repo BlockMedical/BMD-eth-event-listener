@@ -4,7 +4,7 @@
 * Uses web3 javascript library
 * Run it with `node`
 * We are using Infura endpoint `wss://ropsten.infura.io/ws` for Ropstan websocket and `wss://mainnet.infura.io/ws` for Production
-* Lookup metadata from IPFS proxy `https://ipfs.blcksync.info:8080`
+* Lookup metadata from IPFS proxy `https://ipfs.blockmed.ai:8080`
 
 ## Setup
 
